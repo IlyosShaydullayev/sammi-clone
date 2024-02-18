@@ -1,0 +1,7 @@
+export {Home} from './home'
+export {PopularCourse} from './popular-couses'
+export {Projects} from './projects'
+export {CodeSource} from './code-source'
+export {LoginPage} from './loginPage'
+export {RegisterPage} from './registerPage'
+export {ProjectInfo} from './projectInfo'
